@@ -1,11 +1,17 @@
 body {
-  font-family: roboto, sans-serif;
+  background-color: #efefef;
+  font-family: roboto, "Century Gothic", sans-serif;
+  padding: 10%;
 }
 
 div {
   border: 2px solid black;
-  height: 200px;
+  border-style:
+  height: auto;
+  width: auto;
   margin-top:20px;
+  margin-right: 50%;
+  padding: 10%;
 }
 h2 {
   font-weight: 500;
